@@ -1,0 +1,17 @@
+.nav{
+    background-image: linear-gradient( 135deg, #52E5E7 10%, #130CB7 100%);
+    gap: 2.0rem;
+    align-items: center;
+    justify-content: space-evenly;
+    padding: 1px;
+    display: flex;
+    cursor: pointer;
+    position: sticky;
+    color: white;
+    box-shadow: 4px;
+    
+}
+h1,h2,h3,h4,h5,h6{
+    color: aqua;
+    
+}
